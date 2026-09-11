@@ -1,5 +1,5 @@
 {
-  "name": "pixelwhale",
+  "name": "dsh-pixelwhale",
   "version": "1.0.0",
   "description": "深度求索时，派一只像素蓝鲸为你喷水摆尾。",
   "type": "module",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lkrain821/pixelwhale.git"
+    "url": "git+https://github.com/Lkrain821/dsh-pixelwhale.git"
   },
   "keywords": [
     "dsh",

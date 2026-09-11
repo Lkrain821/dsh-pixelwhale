@@ -1,9 +1,9 @@
-# pixelwhale bundle patch
+# dsh-pixelwhale bundle patch
 #
 # 安装本插件到 profile 后，profile 启动时合并此 patch（单行 insert 插件行）。
 #
-#   dsh plugin --profile <name> add pixelwhale
+#   dsh plugin --profile <name> add dsh-pixelwhale
 #
 - insert:
-    - id: pixelwhale
-      name: 'pixelwhale'
+    - id: dsh-pixelwhale
+      name: 'dsh-pixelwhale'

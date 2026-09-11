@@ -19,7 +19,7 @@ A DSH (DeepSeek Harness) web UI plugin: when the model is thinking, the native
 ## Install
 
 ```bash
-dsh plugin --profile desktop add https://github.com/Lkrain821/pixelwhale
+dsh plugin --profile desktop add https://github.com/Lkrain821/dsh-pixelwhale
 ```
 
 Then restart DSH.
