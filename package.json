@@ -1,6 +1,6 @@
 {
   "name": "dsh-pixelwhale",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "深度求索时，派一只像素蓝鲸为你喷水摆尾。",
   "type": "module",
   "main": "lib/index.js",

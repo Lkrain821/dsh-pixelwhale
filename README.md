@@ -1,5 +1,7 @@
 # PixelWhale 🐋
 
+![PixelWhale](assets/thinking-status.png)
+
 深度求索时，派一只像素蓝鲸为你喷水摆尾。
 
 A DSH (DeepSeek Harness) web UI plugin: while the model is thinking, the native
